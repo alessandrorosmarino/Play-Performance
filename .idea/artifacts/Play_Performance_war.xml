@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Play-Performance:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Play-Performance</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Play-Performance-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Play-Performance:war exploded" />
+    </root>
+  </artifact>
+</component>
